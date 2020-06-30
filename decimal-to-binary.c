@@ -1,7 +1,7 @@
 /**
 
 Program to convert decimals 0-255 to binary
-Patrick Bruso 
+Patrick
 June 29, 2020
 Free to use
 
@@ -32,7 +32,8 @@ int decimalToBinary () //function to do conversion
     {
 		printf ("%d", result[i]);
     }
-  
+	
+	printf("\n");
 	return 0;
 }
 
