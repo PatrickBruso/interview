@@ -10,3 +10,4 @@ This is a repository for answers to interview-style questions (and other small p
 6. Check if string ends with given target - JS
 7. String repeater - JS
 8. Truncate a string - JS
+9. Find first element in array that passes function - JS
