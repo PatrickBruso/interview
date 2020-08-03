@@ -9,3 +9,4 @@ This is a repository for answers to interview-style questions (and other small p
 5. Return largest numbers in arrays - JS
 6. Check if string ends with given target - JS
 7. String repeater - JS
+8. Truncate a string - JS
