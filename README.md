@@ -11,3 +11,6 @@ This is a repository for answers to interview-style questions (and other small p
 7. String repeater - JS
 8. Truncate a string - JS
 9. Find first element in array that passes function - JS
+10. Slice and Splice - JS
+11. Simple filter program - JS
+12. Find index of num in sorted array - JS
